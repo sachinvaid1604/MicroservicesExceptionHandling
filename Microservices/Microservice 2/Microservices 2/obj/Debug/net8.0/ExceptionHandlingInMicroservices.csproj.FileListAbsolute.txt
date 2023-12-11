@@ -1,0 +1,74 @@
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\appsettings.Development.json
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\appsettings.json
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\ExceptionHandlingInMicroservices.exe
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\ExceptionHandlingInMicroservices.deps.json
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\ExceptionHandlingInMicroservices.runtimeconfig.json
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\ExceptionHandlingInMicroservices.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\ExceptionHandlingInMicroservices.pdb
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ExceptionHandlingInMicroservices.csproj.AssemblyReference.cache
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ExceptionHandlingInMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ExceptionHandlingInMicroservices.AssemblyInfoInputs.cache
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ExceptionHandlingInMicroservices.AssemblyInfo.cs
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ExceptionHandlingInMicroservices.csproj.CoreCompileInputs.cache
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ExceptionHandlingInMicroservices.MvcApplicationPartsAssemblyInfo.cs
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ExceptionHandlingInMicroservices.MvcApplicationPartsAssemblyInfo.cache
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\staticwebassets.build.json
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\staticwebassets.development.json
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.ExceptionHandlingInMicroservices.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.build.ExceptionHandlingInMicroservices.props
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ExceptionHandlingInMicroservices.props
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ExceptionHandlingInMicroservices.props
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\scopedcss\bundle\ExceptionHandlingInMicroservices.styles.css
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ExceptionHandlingInMicroservices.csproj.CopyComplete
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ExceptionHandlingInMicroservices.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\refint\ExceptionHandlingInMicroservices.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ExceptionHandlingInMicroservices.pdb
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ExceptionHandlingInMicroservices.genruntimeconfig.cache
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\obj\Debug\net8.0\ref\ExceptionHandlingInMicroservices.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\System.Net.Http.WebRequest.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\System.Net.Http.Extensions.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\System.Net.Http.Primitives.dll
+F:\Azure\Project\FreeLancing\Microservices\ExceptionHandling\ExceptionHandlingInMicroservices\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\appsettings.Development.json
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\appsettings.json
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\ExceptionHandlingInMicroservices.exe
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\ExceptionHandlingInMicroservices.deps.json
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\ExceptionHandlingInMicroservices.runtimeconfig.json
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\ExceptionHandlingInMicroservices.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\ExceptionHandlingInMicroservices.pdb
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\System.Net.Http.WebRequest.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\System.Net.Http.Extensions.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\bin\Debug\net8.0\System.Net.Http.Primitives.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ExceptionHandlingInMicroservices.csproj.AssemblyReference.cache
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ExceptionHandlingInMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ExceptionHandlingInMicroservices.AssemblyInfoInputs.cache
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ExceptionHandlingInMicroservices.AssemblyInfo.cs
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ExceptionHandlingInMicroservices.csproj.CoreCompileInputs.cache
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ExceptionHandlingInMicroservices.MvcApplicationPartsAssemblyInfo.cs
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ExceptionHandlingInMicroservices.MvcApplicationPartsAssemblyInfo.cache
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\staticwebassets.build.json
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\staticwebassets.development.json
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\staticwebassets\msbuild.ExceptionHandlingInMicroservices.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\staticwebassets\msbuild.build.ExceptionHandlingInMicroservices.props
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ExceptionHandlingInMicroservices.props
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ExceptionHandlingInMicroservices.props
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\scopedcss\bundle\ExceptionHandlingInMicroservices.styles.css
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ExceptionHandlingInMicroservices.csproj.CopyComplete
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ExceptionHandlingInMicroservices.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\refint\ExceptionHandlingInMicroservices.dll
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ExceptionHandlingInMicroservices.pdb
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ExceptionHandlingInMicroservices.genruntimeconfig.cache
+F:\Azure\Project\FreeLancing\Microservices\Microservice 2\Microservices 2\obj\Debug\net8.0\ref\ExceptionHandlingInMicroservices.dll
